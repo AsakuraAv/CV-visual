@@ -11,9 +11,9 @@ Go all the way from ideas to finished project to improve understanding of all as
   </summary>
   <br>
   <p align = "center">
-    <img scr = "img/CV-visual_p1.jpg" alt = "Page 1" width = "32%">
-    <img scr = "img/CV-visual_p2.jpg" alt = "Page 2" width = "32%">
-    <img scr = "img/CV-visual_p3.jpg" alt = "Page 3" width = "32%">
+    <img scr = "./img/CV-visual_p1.jpg" alt = "Page 1" width = "32%">
+    <img scr = "./img/CV-visual_p2.jpg" alt = "Page 2" width = "32%">
+    <img scr = "./img/CV-visual_p3.jpg" alt = "Page 3" width = "32%">
   </p>
 </details>
 - **Descriptions of assumptions**
