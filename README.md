@@ -7,13 +7,13 @@ Go all the way from ideas to finished project to improve understanding of all as
 ## UI/UX Design
 <details>
   <summary>
-    Photo od paper model (click to open)
+    Photo of paper model (click to open)
   </summary>
   <br>
   <p align = "center">
-    <img scr = "./img/CV-visual_p1.jpg" alt = "Page 1" width = "32%">
-    <img scr = "./img/CV-visual_p2.jpg" alt = "Page 2" width = "32%">
-    <img scr = "./img/CV-visual_p3.jpg" alt = "Page 3" width = "32%">
+    <img src = "./img/CV-visual_p1.jpg" alt = "Page 1" width = "32%">
+    <img src = "./img/CV-visual_p2.jpg" alt = "Page 2" width = "32%">
+    <img src = "./img/CV-visual_p3.jpg" alt = "Page 3" width = "32%">
   </p>
 </details>
 - **Descriptions of assumptions**
